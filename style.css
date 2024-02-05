@@ -87,5 +87,5 @@ body{
 .error {
     margin-top: 10px;
     font-style: italic;
-    
+    display: none;
 }
